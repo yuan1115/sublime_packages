@@ -67,7 +67,7 @@
 
     python注释插件
 
-#### SublimeLinter + SublimeLinter-flake8
+#### SublimeLinter + SublimeLinter-flake8 + autopep8
 
     python代码格式化，以及检测错误行，警告。python还需要安装flake8库    
 
@@ -102,7 +102,7 @@
 	            "codeintel_scan_extra_dir": [],
 	            "codeintel_scan_files_in_project": true,
 	            "codeintel_max_recursive_dir_depth": 15,
-	            "codeintel_scan_exclude_dir":[D:\\Install\\phpStudy\\PHPTutorial\\php\\php-5.6.27-nts\\"]
+	            "codeintel_scan_exclude_dir":["D:\\Install\\phpStudy\\PHPTutorial\\php\\php-5.6.27-nts\\"]
 	        }
         }
     }  
