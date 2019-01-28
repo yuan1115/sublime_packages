@@ -46,9 +46,9 @@
 
 #### Markdown + MarkdownLivePreview
 
-    通过安装z这个两个插件可以编辑Markdown文本，在编辑Markdown文本的同时可以实时预览编辑效果
-    简单设置：Preferences → Package Settings → MarkdownLivePreview → Setting，打开后将左边default的设置代码复制到右边User栏，
-    找到"markdown_live_preview_on_open": false,把false改为true，保存
+    通过安装这个两个插件可以编辑Markdown文本，在编辑Markdown文本的同时可以实时预览编辑效果，简单设置：Preferences → 
+    Package Settings → MarkdownLivePreview → Setting，打开后将左边default的设置代码复制到右边User栏，找到
+    "markdown_live_preview_on_open": false,把false改为true，保存
 
 #### Emmet
 
