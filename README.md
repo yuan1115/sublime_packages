@@ -14,6 +14,10 @@
 
 	PS：上面的路径就是本地channel_v3.json的路径	
 
+#### PackageResourceViewer
+
+    插件配置快速查找，安装好之后，ctrl+ shift+p中输入open resource  
+
 #### SideBarEnhancements
 
     侧栏右键功能增强，非常实用
