@@ -119,7 +119,7 @@
 * 配置php时需将php的安装目录参数"php_path"中。
 
 #### sublime thinkphp5
-
-    让sublime支持thinkphp5语法，自动补全。插件及用法点击[这里](https://github.com/chenbool/sublime_thinkphp5)                                   
+    让sublime支持thinkphp5语法，自动补全。插件及用法点击下方：
+[sublime thinkphp5](https://github.com/chenbool/sublime_thinkphp5)                                   
 
 
