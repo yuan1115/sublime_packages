@@ -109,4 +109,11 @@
 	            "codeintel_scan_exclude_dir":["D:\\Install\\phpStudy\\PHPTutorial\\php\\php-5.6.27-nts\\"]
 	        }
         }
-    }  
+    }
+
+#### CodeFormatter
+    代码格式化插件，可以对php，js，html，css等进行格式化，配置时需注意:
+
+* 配置html格式化时需将"formatter_version":"bs4"改为"formatter_version":"regexp"；
+* 插件不再支持sublime text3的python代码格式化；
+* 配置php时需将php的安装目录参数"php_path"中。 
