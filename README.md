@@ -116,4 +116,10 @@
 
 * 配置html格式化时需将"formatter_version":"bs4"改为"formatter_version":"regexp"；
 * 插件不再支持sublime text3的python代码格式化；
-* 配置php时需将php的安装目录参数"php_path"中。 
+* 配置php时需将php的安装目录参数"php_path"中。
+
+#### sublime thinkphp5
+
+    让sublime支持thinkphp5语法，自动补全。插件及用法点击[这里](https://github.com/chenbool/sublime_thinkphp5)                                   
+
+
