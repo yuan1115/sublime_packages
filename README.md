@@ -120,6 +120,12 @@
 
 #### sublime thinkphp5
     让sublime支持thinkphp5语法，自动补全。插件及用法点击下方：
-[sublime thinkphp5](https://github.com/chenbool/sublime_thinkphp5)                                   
+[sublime thinkphp5](https://github.com/chenbool/sublime_thinkphp5)     
+
+#### vuejsCompletePackage 
+    vue 语法高亮
+
+#### SublimeTmpl
+    模板插件
 
 
